@@ -1,7 +1,10 @@
 # Easy CLI
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+[![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff)](https://creativecommons.org/licenses/by/4.0/)
+
 List of nice tools to make CLI applications by language
 
-## Other projects
+## Related
 - [Awesome CLI Frameworks](https://github.com/shadawck/awesome-cli-frameworks) - curated list of CLI Frameworks by language
 
 # Rust
