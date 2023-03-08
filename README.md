@@ -1,6 +1,9 @@
 # Easy CLI
 List of nice tools to make CLI applications by language
 
+## Other projects
+- [Awesome CLI Frameworks](https://github.com/shadawck/awesome-cli-frameworks) - curated list of CLI Frameworks by language
+
 # Rust
 - [Colored](https://github.com/mackwic/colored) - colors in the terminal
 - [Console](https://github.com/console-rs/console) - console and terminal abstraction
